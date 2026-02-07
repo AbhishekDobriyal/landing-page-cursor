@@ -4,8 +4,6 @@ This project is a **frontend clone of the Cursor landing page** built using **HT
 
 The goal of this project was to practice real-world layout building, semantic structure, flexbox layouts, and component styling by recreating a professional product website UI from scratch.
 
----
-
 
 ## 👩‍💻 Tech Used
 
@@ -15,68 +13,3 @@ The goal of this project was to practice real-world layout building, semantic st
 - Custom Fonts (`@font-face`)
 - CSS Variables
 
----
-
-## 📘 What I Learned
-
-While building this project, I learned and practiced the following important frontend concepts:
-
-### 🔹 Semantic Structure
-- Proper use of `nav`, `main`, `section`, and `footer`
-- Structuring large pages into meaningful sections
-
-### 🔹 Flexbox Mastery
-- Creating multi-column layouts
-- Building card grids using `flex-wrap`
-- Aligning elements horizontally and vertically
-- Handling spacing with `gap`, `margin`, and `padding`
-
-### 🔹 Typography & Fonts
-- Using custom fonts with `@font-face`
-- Understanding how `font-weight` works with custom fonts
-- Managing consistent typography across sections
-
-### 🔹 Component-Based Thinking
-- Hero section with CTA
-- Logo showcase section
-- Feature sections with alternating layouts
-- Testimonial cards layout
-- Use-case cards
-- Final CTA section
-- Multi-column footer
-
-### 🔹 Real UI Practices
-- Removing default browser styles
-- Using CSS variables for color consistency
-- Handling full-width sections correctly
-- Creating reusable classes for cards and text blocks
-- Styling lists without bullet points
-- Creating professional button styles
-
----
-
-## 🧩 Page Sections Implemented
-
-- Navigation Bar
-- Hero Section
-- Trusted Logos Section
-- Feature Sections (alternating image/text layout)
-- Testimonial Cards Grid
-- Use-Case Cards
-- Final Call-To-Action
-- Multi-Column Footer
-
----
-
-## ⚙️ Setup Instructions
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-
-
-2. Navigate to the project folder:
-
-```bash
-cd your-repo-name
