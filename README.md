@@ -4,6 +4,9 @@ A frontend clone of the Cursor landing page built using **HTML5** and **CSS3** t
 
 ---
 
+## How web page Looks
+![Cursor Clone Screenshot](screenshots/hero.png)
+
 ## 👩‍💻 Tech Used
 
 - HTML5
