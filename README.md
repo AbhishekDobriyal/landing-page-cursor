@@ -7,7 +7,12 @@ A frontend clone of the Cursor landing page built using **HTML5** and **CSS3** t
 ## How web page Looks
 ![Cursor Clone Screenshot](webpage-cursor/screenshots/hero.png)
 
-![Cursor Clone Screenshot](landing-page-cursor/webpage-cursor/screenshots/hero.png)
+![Cursor Clone Screenshot](webpage-cursor/screenshots/logos.png)
+
+![Cursor Clone Screenshot](webpage-cursor/screenshots/section.png)
+
+![Cursor Clone Screenshot](webpage-cursor/screenshots/cards.png)
+
 
 
 ## 👩‍💻 Tech Used
